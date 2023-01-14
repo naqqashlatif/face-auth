@@ -1,0 +1,6 @@
+h5py @ file:///C:/Users/Naqqash/Code/Projects/FaceAuth/h5py-3.7.0-cp311-cp311-win_amd64.whl
+imutils==0.5.4
+numpy==1.24.1
+opencv-contrib-python==4.7.0.68
+opencv-python==4.7.0.68
+Pillow==9.4.0
